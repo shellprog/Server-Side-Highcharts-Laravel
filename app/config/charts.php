@@ -2,7 +2,7 @@
 
 return [
 
-    'phantomjs' => 'D:\phantomjs\phantomjs',//public_path('charts/phantomjs'),
+    'phantomjs' => 'D:\phantomjs\phantomjs',
 
     'highcharts_convert' => public_path('charts/highcharts-convert.js'),
 
