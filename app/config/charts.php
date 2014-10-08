@@ -8,8 +8,6 @@ return [
 
     'infile' => public_path('charts/images/options.json'),
 
-    'options' => public_path('charts/images/options.json'),
-
     'constr' => 'StockChart',
 
     'outfile' => public_path('charts/images/test.png'),

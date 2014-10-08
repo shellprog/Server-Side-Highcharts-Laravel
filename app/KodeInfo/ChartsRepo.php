@@ -89,7 +89,7 @@ class ChartsRepo {
         $result .= $end_fake_json;
 
         if (!empty ($result)) {
-            \File::put($this->config['options'],$result);
+            \File::put($this->config['infile'],$result);
         }
 
         //Generate Charts now
